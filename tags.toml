@@ -1,6 +1,6 @@
 [bug]
 keywords = ["bug", "report", "bugs"]
-content = """
+content = """"
 Found a bug?
 • If you are unsure, first discuss your bug in <#1023577224571523175> with the **Inquiry** tag
 • Create a post on the same forum channel, but instead use the **Bug** tag
