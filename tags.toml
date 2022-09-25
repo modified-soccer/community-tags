@@ -8,7 +8,7 @@ Found a bug?
 
 [feature-request]
 keywords = ["feature-request", "feature", "request", "feedback"]
-content = """
+content = """"
 Any idea what to add to mrs?
 • If you think that your suggestion is already added, search your suggestion in <#1023577224571523175>
 • Create a post on the same forum channel, but instead use the **Suggestion** tag
@@ -16,7 +16,7 @@ Any idea what to add to mrs?
 
 [team-ownership]
 keywords = ["team-ownership", "manage a team", "own-a-team", "manager"]
-content = """
+content = """"
 Want to own a team in mrs?
 • Tell us the team you want
 • Provide us a screenshot of your concept team. The minimum amount of players you must have is seven
@@ -25,17 +25,12 @@ Want to own a team in mrs?
 
 [group-request]
 keywords = ["group-request", "join-group"]
-content = """
-Due to the large number of requests we get, it make take up to two weeks.
 content = """"
-Due to the large number of requests we get, it make take up to two weeks
+Due to the large number of requests we get, it make take up to two weeks.
 """
 
 [group-rank]
 keywords = ["group-rank", "promote-me"]
-content = """
-It may take up to a week for your rank on the group to change.
-"""
 content = """"
-It may take up to a week for your rank on the group to change
+It may take up to a week for your rank on the group to change.
 """
