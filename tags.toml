@@ -1,0 +1,36 @@
+[bug]
+keywords = ["bug", "report", "bugs"]
+content = """"
+Found a bug?
+• If you are unsure, first discuss your bug in <#1023577224571523175> with the **Inquiry** tag
+• Create a post on the same forum channel, but instead use the **Bug** tag
+"""
+
+[feature-request]
+keywords = ["feature-request", "feature", "request", "feedback"]
+content = """"
+Any idea what to add to mrs?
+• If you think that your suggestion is already added, search your suggestion in <#1023577224571523175>
+• Create a post on the same forum channel, but instead use the **Suggestion** tag
+"""
+
+[team-ownership]
+keywords = ["team-ownership", "manage a team", "own-a-team", "manager"]
+content = """"
+Want to own a team in mrs?
+• Tell us the team you want
+• Provide us a screenshot of your concept team. The minimum amount of players you must have is seven
+• List any experience you have had as manager
+"""
+
+[group-request]
+keywords = ["group-request", "join-group"]
+content = """"
+Due to the large number of requests we get, it make take up to two weeks.
+"""
+
+[group-rank]
+keywords = ["group-rank", "promote-me"]
+content = """"
+It may take up to a week for your rank on the group to change.
+"""
