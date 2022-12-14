@@ -43,3 +43,10 @@ Gajn, is a fast, small, and reliable way of telling someone to get a job, as wel
 Person 1: I'm PRS X Class
 Person 2: GAJN
 """
+
+[veriy-account]
+keywords = ["verify", "register"]
+content = """
+Currently, we do not have a system in place in order to register your account.
+We are trying to sort this ASAP, please bare with us.
+"""
