@@ -44,7 +44,7 @@ Person 1: I'm PRS X Class
 Person 2: GAJN
 """
 
-[veriy-account]
+[verify-account]
 keywords = ["verify", "register"]
 content = """
 Currently, we do not have a system in place in order to register your account.
